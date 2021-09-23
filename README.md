@@ -14,19 +14,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-    - name: Run QOTD
-      uses: victoria-lo/qotd-github-action@master
+    - name: Use Node
+      uses: actions/setup-node@v2
       with:
-         category: 'sports'
+        node-version: '14.x'
+    - name: Install node dependencies
+      run: npm install
+
+    - name: Run QOTD action
+      uses: ./ # Uses an action in the root directory
+      with:
+         category: 'life'
     - name: Commit and push update
       run: |-
         git config --global user.email "qotd@action.com"
         git config --global user.name "Quote-Bot"
         git add -A
-        git commit -m "Update README content"
+        git commit -m "Added QOTD from GitHub Actions"
         git push
 ```
