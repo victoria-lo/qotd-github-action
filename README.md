@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education & his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both."
+💬 Quote of the Day: "One day it just clicks.. You realize what's important and what isn't. You learn to care less about what other people think of you and more about what you think of yourself. You realize how far you've come and you remember when you thought things were such a mess that they'd never recover. And then you smile. You smile because you are truly proud of yourself and the person you've fought to become."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
