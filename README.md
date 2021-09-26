@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "I believe life is an intelligent thing that things aren't random!"
+💬 Quote of the Day: "The plague of man is boasting of his knowledge."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
