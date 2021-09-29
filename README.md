@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Perpetual inspiration is as necessary to the life of goodness, holiness and happiness as perpetual respiration is necessary to animal life."
+💬 Quote of the Day: "There are some who complain most energetically and inconsolably of any, because they are, as they say, doing their duty. I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
