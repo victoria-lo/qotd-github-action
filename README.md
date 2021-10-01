@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!"
+💬 Quote of the Day: "Society is like a large piece of frozen water; and skating well is the great art of social life."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
