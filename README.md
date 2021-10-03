@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "I really don't have any weaknesses. I do have areas of my life that I am working on to grow, heal and evolve. Giving myself permission to rest is an area I am working on. Not rescuing my children and grandchildren is another area."
+💬 Quote of the Day: "When you make the U-turn to the Universal Presence and apply the Universal practices and principles, your life is changed."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
