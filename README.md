@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "When making your choice in life, do not neglect to live."
+💬 Quote of the Day: "One of the things you will find, which is interesting and people don't think of it enough, with most businesses and with most individuals, life tends to snap you at your weakest link. So it isn't the strongest link you're looking for among the individuals in the room. It isn't even the average strength of the chain. It's the weakest link that causes the problem."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
