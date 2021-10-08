@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."
+💬 Quote of the Day: "The art of living is more like wrestling than dancing."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
