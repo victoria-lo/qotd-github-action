@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "The art of living is more like wrestling than dancing."
+💬 Quote of the Day: "The more we live by our intellect, the less we understand the meaning of life."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
