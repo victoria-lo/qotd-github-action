@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Love is the immortal flow of energy that nourishes, extends and preserves. Its eternal goal is life."
+💬 Quote of the Day: "I hope that my story, I hope that my life is.. An encouragement for people, especially in Brooklyn. I feel humbled and blessed."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
