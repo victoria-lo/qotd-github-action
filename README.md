@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "There's no difference between a pessimist who says, "Oh, it's hopeless, so don't bother doing anything", and an optimist who says, "Don't bother doing anything, it's going to turn out fine anyway". Either way, nothing happens."
+💬 Quote of the Day: "While you are proclaiming peace with your lips, be careful to have it even more fully in your heart."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
