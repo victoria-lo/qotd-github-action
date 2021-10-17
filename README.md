@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "While you are proclaiming peace with your lips, be careful to have it even more fully in your heart."
+💬 Quote of the Day: "Life itself still remains a very effective therapist."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
