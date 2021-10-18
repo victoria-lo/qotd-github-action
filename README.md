@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Life itself still remains a very effective therapist."
+💬 Quote of the Day: "Your emotions are the slaves to your thoughts, and you are the slave to your emotions."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
