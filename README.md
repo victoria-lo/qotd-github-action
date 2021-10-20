@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Your emotions are the slaves to your thoughts, and you are the slave to your emotions."
+💬 Quote of the Day: "The purpose of art is washing the dust of daily life off our souls."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
