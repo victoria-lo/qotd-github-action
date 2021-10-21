@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "The purpose of art is washing the dust of daily life off our souls."
+💬 Quote of the Day: "I'm not naive. I realise that quality of life and income are inextricably bound together, but sooner or later we're going to have to ask ourselves whether it is possible to make life more meaningful without charging it to Visa."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
