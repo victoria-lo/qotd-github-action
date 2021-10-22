@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "I'm not naive. I realise that quality of life and income are inextricably bound together, but sooner or later we're going to have to ask ourselves whether it is possible to make life more meaningful without charging it to Visa."
+💬 Quote of the Day: "There are days you are going to feel sad. That is nothing you can choose. But you can make stuff. Make films. Draw. Write. It'll make a world of difference."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
