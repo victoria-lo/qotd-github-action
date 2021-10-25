@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "If you must play, decide on three things at the start: the rules of the game, the stakes, and the quitting time."
+💬 Quote of the Day: "Character develops itself in the stream of life."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
