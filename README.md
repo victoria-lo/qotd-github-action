@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Character develops itself in the stream of life."
+💬 Quote of the Day: "Authenticity is the act of telling people what you believe and care about, not telling them what you think they want you to believe or care about."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
