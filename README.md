@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "You can't really be strong until you see a funny side to things."
+💬 Quote of the Day: "Life is the childhood of our immortality."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
