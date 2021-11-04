@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "This is not a dress rehearsal; this is your life."
+💬 Quote of the Day: "Things are not bad in themselves, but our cowardice makes them so."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
