@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Life will always get busy, make time to do the things you love."
+💬 Quote of the Day: "Of all the paths you take in life, make sure a few of them are dirt."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
