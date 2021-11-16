@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Of all the paths you take in life, make sure a few of them are dirt."
+💬 Quote of the Day: "Life is fragile. We're not guaranteed a tomorrow so you have to give it everything you've got."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
