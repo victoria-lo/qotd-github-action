@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "I would rather live in a world where my life is surrounded by mystery than live in a world so small that my mind could comprehend it."
+💬 Quote of the Day: "The moment we start weighing our every word, action and appearance on whether people will accept it is the moment we become their slave."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
