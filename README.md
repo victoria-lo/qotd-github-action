@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "The moment we start weighing our every word, action and appearance on whether people will accept it is the moment we become their slave."
+💬 Quote of the Day: "And this, our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
