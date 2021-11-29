@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Don't shy away from earning, but don't sell away your soul."
+💬 Quote of the Day: "Our truest life is when we are in dreams awake."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
