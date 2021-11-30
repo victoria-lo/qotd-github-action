@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Our truest life is when we are in dreams awake."
+💬 Quote of the Day: "The thirst for more is not evil itself, but it is often the gateway to something that is."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
