@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "I was sitting on the bus, and the sign said if you're ready to better your life, come to Medgar Evers College, and I got off the bus and went to Medgar Evers College."
+💬 Quote of the Day: "I don't believe in an afterlife, so I don't have to spend my whole life fearing hell, or fearing heaven even more. For whatever the tortures of hell, I think the boredom of heaven would be even worse."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
