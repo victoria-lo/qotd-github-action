@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Thinking should become your capital asset, no matter whatever ups and downs you come across in your life."
+💬 Quote of the Day: "Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
