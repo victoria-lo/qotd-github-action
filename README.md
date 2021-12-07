@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "It is the ability to take a joke, not make one, that proves you have a sense of humor."
+💬 Quote of the Day: "If you can't be funny, be interesting."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
