@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Attention to health is life's greatest hindrance."
+💬 Quote of the Day: "It is inevitable that some defeat will enter even the most victorious life. The human spirit is never finished when it is defeated.. It is finished when it surrenders."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
