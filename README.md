@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "It is inevitable that some defeat will enter even the most victorious life. The human spirit is never finished when it is defeated.. It is finished when it surrenders."
+💬 Quote of the Day: "In between goals is a thing called life, that has to be lived and enjoyed."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
