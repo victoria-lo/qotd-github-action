@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "In between goals is a thing called life, that has to be lived and enjoyed."
+💬 Quote of the Day: "Reverence for life affords me my fundamental principle of morality."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
