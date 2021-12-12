@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Reverence for life affords me my fundamental principle of morality."
+💬 Quote of the Day: "The remedy for life's broken pieces is not classes, workshops or books. Don't try to heal the broken pieces. Just forgive."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
