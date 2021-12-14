@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "You should take the approach that you're wrong. Your goal is to be less wrong."
+💬 Quote of the Day: "Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
