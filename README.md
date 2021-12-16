@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Know what's weird? Day by day, nothing seems to change, but pretty soon.. Everything is Different."
+💬 Quote of the Day: "Openness, respect, integrity - these are principles that need to underpin pretty much every other decision that you make."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
