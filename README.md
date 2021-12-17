@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Openness, respect, integrity - these are principles that need to underpin pretty much every other decision that you make."
+💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
