@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
+💬 Quote of the Day: "Reality is merely an illusion, albeit a very persistent one."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
