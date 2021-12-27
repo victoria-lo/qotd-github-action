@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "If you get to my age in life and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster."
+💬 Quote of the Day: "Some people's developmental path has not equipped them to stand up and let go of something."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
