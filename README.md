@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "If you're changing the world, you're working on important things. You're excited to get up in the morning."
+💬 Quote of the Day: "This I conceive to be the chemical function of humor: to change the character of our thought."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
