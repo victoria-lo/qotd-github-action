@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "This I conceive to be the chemical function of humor: to change the character of our thought."
+💬 Quote of the Day: "The world is going to need all of the different kinds of minds to work together."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
