@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "If I had to live my life again, I'd make the same mistakes, only sooner."
+💬 Quote of the Day: "Life is half spent before we know what it is."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
