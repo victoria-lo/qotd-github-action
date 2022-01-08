@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Life is half spent before we know what it is."
+💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
