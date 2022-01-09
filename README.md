@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
+💬 Quote of the Day: "Without discipline, there's no life at all."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
