@@ -1,5 +1,5 @@
 <!-- start quote -->
-💬 Quote of the Day: "Without discipline, there's no life at all."
+💬 Quote of the Day: "While there's life, there's hope."
 <!-- end quote -->
 
 # Quote Of the Day GitHub action
